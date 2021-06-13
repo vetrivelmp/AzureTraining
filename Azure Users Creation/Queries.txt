@@ -1,2 +1,0 @@
-RTM from Azure Boards
-Boards - Develop & Test Count explanation
