@@ -1,6 +1,6 @@
 # Azure Developer Advanced + Devops + Data Engineer
 
-**Prerequisite**
+## Prerequisite
 
 1. Participants are already aware about Azure Platform and Dot Net (C#)
 1. Trainer will do hands-on demonstrations during the session and participants need to understand it. Trainer will also provide a hands-on guide to follow later on.
