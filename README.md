@@ -14,18 +14,18 @@
 ## A: Must: Developers/ Devops Engineers
 
 1. Starting with Azure
-  - Creating resources and resource groups
+    - Creating resources and resource groups
 1. Docker
-  - What is Docker?
-  - Why Docker?
-  - How to setup Docker?
-  - Creating and Using Containers
-  - Container Images
-    1. What&#39;s In An Image
-    1. Using Docker Hub Registry Images
-    1. Image Tagging and Pushing to Docker Hub
-    1. Building Images: The Dockerfile Basics
-    1. Building Images: Running Docker Builds
+    - What is Docker?
+    - Why Docker?
+    - How to setup Docker?
+    - Creating and Using Containers
+    - Container Images
+        1. What&#39;s In An Image
+        1. Using Docker Hub Registry Images
+        1. Image Tagging and Pushing to Docker Hub
+        1. Building Images: The Dockerfile Basics
+        1. Building Images: Running Docker Builds
 1. YAML basics
   - What is YAML?
   - Rules for Creating YAML file
