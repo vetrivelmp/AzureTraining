@@ -387,6 +387,6 @@
     - Creating Azure DevOps Pipeline for Deploying Microservice to Azure AKS
     - Managing Pipelines &amp; Github Repos for Kubernetes and Microservices
     - Creating V2 and Enable Build and Push of Docker Image
-    - Performing Terraform destroy to delete Azure Kubernetes Cluster in Azu
+    - Performing Terraform destroy to delete Azure Kubernetes Cluster in Azure
     - Review of Terraform destroy
     - Hands-On
