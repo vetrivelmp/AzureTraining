@@ -62,8 +62,8 @@
     - Create an Azure CDN profile and endpoint
     - Add Azure CDN to an Azure App Service web app
     - Add a custom domain to your endpoint
-1. Set Azure CDN caching rulesDevelop Azure compute solutions
-    - Azure Web App Service
+    - Set Azure CDN caching rulesDevelop Azure compute solutions
+1. Azure Web App Service
     - Azure App Service Plan
     - Azure Web App - Linux App Service Plan
     - Azure Web App - Docker container
@@ -71,7 +71,7 @@
     - Azure Web App - Publishing from GitHub
     - Azure Web Apps - Deployment Slots
     - Azure App Service Plan - Linux
-    - What are Azure Functions?
+1. What are Azure Functions?
     - Creating a Function App
     - Understanding the Azure Function code
     - Azure Functions - Using normal classes
