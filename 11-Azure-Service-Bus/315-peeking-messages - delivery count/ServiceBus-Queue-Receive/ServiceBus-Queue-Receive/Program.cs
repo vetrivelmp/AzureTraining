@@ -15,8 +15,10 @@ namespace ServiceBus_Queue_Receive
 
             ServiceBusReceivedMessage _message= _receiver.ReceiveMessageAsync().GetAwaiter().GetResult();
 
+
             Console.WriteLine(_message.Body);
             Console.WriteLine($"The Sequence number is {_message.SequenceNumber}");
+            Console.WriteLine($"The DeliveryCount is {_message.DeliveryCount}");
 
         }
     }

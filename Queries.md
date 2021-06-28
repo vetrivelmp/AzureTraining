@@ -10,4 +10,11 @@ https://serverfault.com/questions/980578/how-do-you-activate-windows-server-lice
 
 4. Dockerfile example to create windows image for dot net core
 
-5. 
+5. Setup Docker on Windows
+
+6. Azure CDN: Restrict country wise
+  - https://docs.microsoft.com/en-us/azure/cdn/cdn-restrict-access-by-country
+
+7. How to deploy function app from visual studio to azure? Currently compiled code is being published only.
+
+8. 
