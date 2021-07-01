@@ -16,5 +16,13 @@ https://serverfault.com/questions/980578/how-do-you-activate-windows-server-lice
   - https://docs.microsoft.com/en-us/azure/cdn/cdn-restrict-access-by-country
 
 7. How to deploy function app from visual studio to azure? Currently compiled code is being published only.
+ - It's not possible.
 
-8. 
+8. How to release the lease using lease id which is created via UI
+  - https://docs.microsoft.com/en-us/dotnet/api/azure.storage.blobs.specialized.specializedblobextensions.getblobleaseclient?view=azure-dotnet
+
+9. Examples of Queue and Storage
+
+10. Why SQLApp(Redis, SQL DB) is not working after publishing to Azure?
+
+11. 
