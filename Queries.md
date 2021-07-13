@@ -25,4 +25,6 @@ https://serverfault.com/questions/980578/how-do-you-activate-windows-server-lice
 
 10. Why SQLApp(Redis, SQL DB) is not working after publishing to Azure?
 
-11. 
+11. Get notification when duplication mesaage logs
+
+12. 
