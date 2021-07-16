@@ -27,4 +27,4 @@ https://serverfault.com/questions/980578/how-do-you-activate-windows-server-lice
 
 11. Get notification when duplication mesaage logs
 
-12. 
+12. Get values lesser than a specific number in a set
