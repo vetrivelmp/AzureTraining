@@ -45,7 +45,7 @@ notepad .gitignore
 
 - In case we need to remove private files from public repo:
 ```
-git rm -r --cached ....
+git rm -r --cached *
 git add *
 git commit -am "-"
 git push github-origin master
